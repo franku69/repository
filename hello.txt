@@ -1,0 +1,21 @@
+What challenges did you face during this activity
+
+Answer:
+Slow internet conection
+Which Git command was the most confusing?
+
+Answer:
+git commit-m "First commit"
+How can version control help in real-world software development?
+Answer:
+Version control systems streamline development workflows, 
+enhance collaboration, and also improve the overall quality and reliability
+of software products in real-world scenarios.
+
+
+
+
+
+
+
+
